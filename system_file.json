@@ -1,0 +1,3474 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "name": "autochk.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "644417B839762A3325920A87C3D955CA974A4EC1D6F008216910267435921255",
+      "description": "Auto Check Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "2",
+      "name": "powershell.exe",
+      "url": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0",
+      "suffix": "exe",
+      "md5": "1EE3D7C80D075D64F97D04D036E558043F2F6BC959C87CD5B0A6D53B96B96A0F",
+      "description": "Windows PowerShell",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "3",
+      "name": "mimikatz.exe",
+      "url": "C:\\Users\\Administrator\\Desktop\\mimikatz_trunk\\x64",
+      "suffix": "exe",
+      "md5": "912018AB3C6B16B39EE84F17745FF0C80A33CEE241013EC35D0281E40C0658D9",
+      "description": "mimikatz for Windows",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "4",
+      "name": "wermgr.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "92EB7086E954AE23A806A5E87510874C1D7E115C6F29B4B1B5D6AED9E5D6F7B9",
+      "description": "Windows Problem Reporting",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "5",
+      "name": "sc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "78097C7CD0E57902536C60B7FA17528C313DB20869E5F944223A0BA4C801D39B",
+      "description": "Service Control Manager Configuration Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "6",
+      "name": "klist.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6AC1BB76543C10B5294AAF286132152757F90825EFECB3C0066F5F2ACC7AA1D7",
+      "description": "Tool for managing the Kerberos ticket cache",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "7",
+      "name": "svchost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "7FD065BAC18C5278777AE44908101CDFED72D26FA741367F0AD4D02020787AB6",
+      "description": "Host Process for Windows Services",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "8",
+      "name": "explorer.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "E6B2C506042FF50415668CB9D0F24C34C2CF080F1023CA9565FDB846CCD39B53",
+      "description": "Windows Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "9",
+      "name": "MusNotifyIcon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "87F2BBF2F673E812BF77A26D0B8F46BBAFC0392D77C6FFCBCF9F50E2107DD3DA",
+      "description": "MusNotifyIcon.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "10",
+      "name": "VBoxTray.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "2BCA60B6F99C167CDEE4716BA023297E3864596E274286FEC00815B150324249",
+      "description": "VirtualBox Guest Additions Tray Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "11",
+      "name": "AM_Delta_Patch_1.353.1817.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "7DCFC5360784A76253E88EF4C99BDBC9F75E6E84E26C55A140DBBEDFC7007A47",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "12",
+      "name": "lpremove.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "148B7B678FE8E74F8D92412B14EFF11496D7B1AB7B8A548B327594F806DF77AF",
+      "description": "MUI Language pack cleanup",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "13",
+      "name": "sdiagnhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "50A816FE57195376AD30AEEC2EA7968936A706508E26299302F30366CC7FF3A4",
+      "description": "Scripted Diagnostics Native Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "14",
+      "name": "cmd.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3656F37A1C6951EC4496FABB8EE957D3A6E3C276D5A3785476B482C9C0D32EA2",
+      "description": "Windows Command Processor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "15",
+      "name": "spoolsv.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B70062FADF85DD9CB404963E8E9048BE670621EAC8E02561943430E4E17DE86B",
+      "description": "Spooler SubSystem App",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "16",
+      "name": "shutdown.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6D262B3CBEDAC276C3EB960DF923167FE0449218721334DCC48A561E981B5790",
+      "description": "Windows Shutdown and Annotation Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "17",
+      "name": "wininit.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "13AD43EE6D19DFC9709C3106D796BC3F21791A564E443D042A5AA117F2680649",
+      "description": "Windows Start-Up Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "18",
+      "name": "services.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "526F2447AD8DA40CF3B969E98ACD6621FE9F5ED94EE6A652661FFAA0E8628446",
+      "description": "Services and Controller app",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "19",
+      "name": "iexplore.exe",
+      "url": "C:\\Program Files\\internet explorer",
+      "suffix": "exe",
+      "md5": "1F499169A51E374C322491CB8526BADB2E0F24E834EA27C28570B4ADE23429DD",
+      "description": "Internet Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "20",
+      "name": "MusNotification.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "87354BA1A03DBF915BA6934D51785479E8BF60DE1FA2C7ABB587CBBBE9E8202F",
+      "description": "MusNotificationBroker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "21",
+      "name": "WerFault.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FF21A7AFC2B535F12847092308488F752C613B167D979DEDA3A73466C728D001",
+      "description": "Windows Problem Reporting",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "22",
+      "name": "HelpPane.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "9B7E8C3EC8575C95938783B6069804F613014653BBDE829D973F0B7D924D2B75",
+      "description": "Microsoft Help and Support",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "23",
+      "name": "AM_Delta.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "B22CFDF541D80A31F1EC769F297180EF00B6A1A5C88DE3EA0CE2022D94908332",
+      "description": "AntiMalware Definition Update",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "24",
+      "name": "fontdrvhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B4EC4DDD548C108B3EFB5390A4781AEF72136B0F99F7BCD046BF27F56211A77D",
+      "description": "Usermode Font Driver Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "25",
+      "name": "DiskSnapshot.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C7B9591EB4DD78286615401C138C7C1A89F0E358CAAE1786DE2C3B08E904FFDC",
+      "description": "DiskSnapshot.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "26",
+      "name": "ismserv.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A78F74D85A66EDFB9B0EEE821D20B5E8737ED8932F920394D64345BD18244034",
+      "description": "Windows NT Intersite Messaging Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "27",
+      "name": "SecurityHealthService.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6EFCF7E203B6437A3F3E4AAE20374549C02C6433D1E2DD452418EB0990FBA73E",
+      "description": "Windows Security Health Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "28",
+      "name": "systeminfo.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "81E6D6CB7A0F50F5BC331FD2AF48A90F2DCEE9FF7EF4F1ABE0B87866F7837985",
+      "description": "Displays system information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "29",
+      "name": "wuauclt.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CC855323B6AB7259C92BD1310211DD95174E43BE2F46C828E38F0060DD2E4488",
+      "description": "Windows Update",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "30",
+      "name": "ShellExperienceHost.exe",
+      "url": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "7664D88802072E89A1E259796EECFC2C1DF5899B3A103886539CB06D83C50D8D",
+      "description": "Windows Shell Experience Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "31",
+      "name": "ipconfig.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "B0832DEC07A4CB6228B7B392D6ABAFB79E9BF7327605AE3E86E1E617DE7495A5",
+      "description": "IP Configuration Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "32",
+      "name": "SIHClient.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C99BF5336B16035DABFBC605903B52F01E9B03E86C36BF779B220423D7F72B92",
+      "description": "SIH Client",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "33",
+      "name": "msfeedssync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CE95233922882F70354D637B12F4738042E189F9A92F4E99945FCBF84EC611F7",
+      "description": "Microsoft Feeds Synchronization",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "34",
+      "name": "ipconfig.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C5DBBDDD1193C7ADCA1E30CD17B8C7AF6A76C406DD84DC164BB959C135F1AA70",
+      "description": "IP Configuration Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "35",
+      "name": "MusNotificationUx.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "577ED5760DC0A80A10F68D8F61E115831367FF7DBC43E5700DBBFD6D3325C43E",
+      "description": "MusNotificationUx.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "36",
+      "name": "whoami.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "075FA41E449213910F6D45F5713FEF8ED71EA913C1EBE594407894141F103D64",
+      "description": "whoami - displays logged on user information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "37",
+      "name": "smss.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A15DF33F7B666BC79A2FE9864442623AAEA393552591A4AB1F3A7CB29CF40DAE",
+      "description": "Windows Session Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "38",
+      "name": "SecurityHealthSystray.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "48F852164EF4747FCDDFF463034CAD33167E341D241536B122AE74FC8841C941",
+      "description": "Windows Security notification icon",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "39",
+      "name": "MpSigStub.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FA42B9B84754E2E8368E8929FA045BE86DBD72678176EE75814D2A16D23E5C26",
+      "description": "Microsoft Malware Protection Signature Update Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "40",
+      "name": "dllhost.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "F95B7BA752C6452DA9D83F84CA7307AE079D220718BCB2BABF145903BAC894DD",
+      "description": "COM Surrogate",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "41",
+      "name": "iexplore.exe",
+      "url": "C:\\Program Files (x86)\\Internet Explorer",
+      "suffix": "exe",
+      "md5": "36D088CD393C832A5EDC8905FB177628C390217445E65800D8DE0F1E2E9BFE99",
+      "description": "Internet Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "42",
+      "name": "ServerManager.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "57FB008FAEB05DD34FC1C224CE456B38CED950243FBAC7F7CB348DF68F990EBE",
+      "description": "Server Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "43",
+      "name": "wevtutil.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CCFFE548D686EB10FD825171D9C6D1C20AA59E639130AC8A9098776369E77B99",
+      "description": "Eventing Command Line Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "44",
+      "name": "sppsvc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "0D82C046ABB654F0D131AEEDF0BA064F7825EE69CAF2B9BABCF34D85BA0A2A9D",
+      "description": "Microsoft Software Protection Platform Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "45",
+      "name": "cmd.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "2EDB180274A51C83DDF8414D99E90315A9047B18C51DFD070326214D4DA59651",
+      "description": "Windows Command Processor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "46",
+      "name": "dxgiadaptercache.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "BA598EFD9D9C4449DEAC83F78CEC893AA127F31767902D6DD69A157B65450240",
+      "description": "DXGI Adapter Cache",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "47",
+      "name": "AppHostRegistrationVerifier.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "619E84381F1387B59B623ECF8E8CE46F661C2E6F41A5CA908AC670F180EA7DFF",
+      "description": "App Uri Handlers Registration Verifier",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "48",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\D1976606-209A-4461-A753-9C29F9D44839",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "49",
+      "name": "AM_Delta_Patch_1.353.1825.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "6A410BF7451C2D6DB5E4AB973DF5C74A518830FCE529E43BAF723841D45E4972",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "50",
+      "name": "AM_Delta_Patch_1.353.2003.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "42DA773250E52A7DB49D24DA7ECFE4091993F7CFAAF12147166E78759B6766D1",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "51",
+      "name": "SecHealthUI.exe",
+      "url": "C:\\Windows\\SystemApps\\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "5DB524E00BBCCD32FB183B0D527D2E472EA95722B796E06158D6D915B3B9C8C6",
+      "description": "Windows Defender application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "52",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\CB209422-5511-4703-B082-43BC2F93E8F9",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "53",
+      "name": "ngen.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "FACEB6F5D1CDC5AD50A4A1B92C4CD3FCDABCF7E8D418014A1B1221C1DEFA3D8F",
+      "description": "Microsoft Common Language Runtime native compiler",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "54",
+      "name": "WmiPrvSE.exe",
+      "url": "C:\\Windows\\SysWOW64\\wbem",
+      "suffix": "exe",
+      "md5": "158075D730A7A6ACBE7739251EE9BEA4349268597CA576B3E0CB8442140865FD",
+      "description": "WMI Provider Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "55",
+      "name": "tzsync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "26A12639EF4893A2A9FB3970661956B21C500B8A61D8B07DDE53100A17970559",
+      "description": "TimeZone Sync Task",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "56",
+      "name": "VBoxService.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "112807F8846DEDE218F310984D257CA889DD3C667FD6C0D851F317EB52C0994B",
+      "description": "VirtualBox Guest Additions Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "57",
+      "name": "wsqmcons.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "AEF5BF320220B76E88A53A23A8C7CAA535C7D5656A66612DA6A60A344869DF12",
+      "description": "Windows SQM Consolidator",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "58",
+      "name": "ngentask.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "1DE4EAD8FFE6AA2A2DF80A93D39B51804E187711DD28723B4F087605ACF21D33",
+      "description": "Microsoft .NET Framework optimization service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "59",
+      "name": "notepad.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A92056D772260B39A876D01552496B2F8B4610A0B1E084952FE1176784E2CE77",
+      "description": "Notepad",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "60",
+      "name": "Defrag.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "F3653821E5DBB52C9B7F62A36A810EED6CA16CEF6372B3C91518CB92D2932BA8",
+      "description": "Disk Defragmenter Module",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "61",
+      "name": "lazagne.exe",
+      "url": "C:\\Users\\Administrator\\Downloads",
+      "suffix": "exe",
+      "md5": "ED2F501408A7A6E1A854C29C4B0BC5648A6AA8612432DF829008931B3E34BF56",
+      "description": "-",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "62",
+      "name": "taskhostw.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "D5907D58A3E8A9F5610941D1E281F8DAC6437DE648FFCA08974490FDF7F74ACD",
+      "description": "Host Process for Windows Tasks",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "63",
+      "name": "SpeechModelDownload.exe",
+      "url": "C:\\Windows\\System32\\Speech_OneCore\\common",
+      "suffix": "exe",
+      "md5": "D5D65106D297610EA11E7EEC6B19E70CA6C7960D24A61920A322057A06611793",
+      "description": "Speech Model Download Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "64",
+      "name": "mmc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "5DC0EFC7CF971F9DA9BD183F4BC5707176F7F829133B3EF90FFBB603516AF921",
+      "description": "Microsoft Management Console",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "65",
+      "name": "rundll32.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "01B407AF0200B66A34D9B1FA6D9EAAB758EFA36A36BB99B554384F59F8690B1A",
+      "description": "Windows host process (Rundll32)",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "66",
+      "name": "dfssvc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B555B8BFE98CDB2973385D312656A1540044F29E753C6EA11CAA64DF749CDA06",
+      "description": "Windows NT Distributed File System Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "67",
+      "name": "mpnotify.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "11AEEDEADEF669487F4445116F617924EC4355D33EFF895509F4A46EEC8EF217",
+      "description": "Windows NT Multiple Provider Notification Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "68",
+      "name": "csrss.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FB40ED0FFA6BC795923A941DAB6B7D6B43583D0F152A6DF4D8953D2C1A0CB417",
+      "description": "Client Server Runtime Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "69",
+      "name": "WMIADAP.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "E2BA31E0F13310FC4BECBECEFC0253C4F7A7F76463A774EF3B434D46BF559291",
+      "description": "WMI Reverse Performance Adapter Maintenance Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "70",
+      "name": "DismHost.exe",
+      "url": "C:\\Windows\\Temp\\B8770674-DB99-4530-89E3-E3BD852DD43D",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "71",
+      "name": "winlogon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C3EB3011D3470334B115548AB3933A794B495FC9A6E4FD838D66C5F42622641C",
+      "description": "Windows Logon Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "72",
+      "name": "UsoClient.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "D695D42BAAF8A58BD471BD283DE0FC1D115DAF83B4DD0061A92F8ACB5B96CD91",
+      "description": "UsoClient",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "73",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\45240464-C4BC-481E-BC46-B2BE1493A14A",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "74",
+      "name": "reg.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "E3046D83040D114AF09C6B7738F69B14EC180ECE999573489A7D3386E4ABABB5",
+      "description": "Registry Console Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "75",
+      "name": "ApplicationFrameHost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "010A39F2C33B3DF513C599E951B61AFC8299C85B60C86E957E9DA17C1CD5655A",
+      "description": "Application Frame Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "76",
+      "name": "TiWorker.exe",
+      "url": "C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.733_none_7e30c51b4cee0b94",
+      "suffix": "exe",
+      "md5": "138435960F0717184F933AED18CB27773A6ACB4F6028C14A7381EFBD343185BA",
+      "description": "Windows Modules Installer Worker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "77",
+      "name": "MsMpEng.exe",
+      "url": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2110.6-0",
+      "suffix": "exe",
+      "md5": "5F7EDBE04ED4A7F616AAE597E7D0AB0D2E9DEA30F70601F80BD45141DA5FEEA7",
+      "description": "Antimalware Service Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "78",
+      "name": "dns.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "17D644914551BF9768A7E2EC2286F295B2D980DD174C3EFAB14894AF24DBB9DC",
+      "description": "Domain Name System (DNS) Server",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "79",
+      "name": "RuntimeBroker.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3F82D416FBEE431B0AE798078F9C354711577F48B38901788C784A5EC0DD13B3",
+      "description": "Runtime Broker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "80",
+      "name": "ServerManagerLauncher.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "8D583C54E942EE079E6D2F59A5914D1A5C5194385ED42C717648A3106CC0F20B",
+      "description": "Server Manager Launcher",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "81",
+      "name": "wlms.exe",
+      "url": "C:\\Windows\\System32\\wlms",
+      "suffix": "exe",
+      "md5": "487A3B61FEFDDC758B2455DF2C8E666D3FCC4E75D8C0A6B56D0AD2732F9F3C48",
+      "description": "Windows License Monitoring Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "82",
+      "name": "cleanmgr.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1BDAB94440132410D1AB623DED8F2427B34C233A063A150617AF271B9394025B",
+      "description": "Disk Space Cleanup Manager for Windows",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "83",
+      "name": "dfsrs.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3C2D337E77C05038109744CC7B9B758BF4A3E4842E8FB3FA7EAB7AAF56736FB3",
+      "description": "Distributed File System Replication",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "84",
+      "name": "SearchUI.exe",
+      "url": "C:\\Windows\\SystemApps\\Microsoft.Windows.Cortana_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "4C5901EE8A0454187E63FB29E9B157802B67E1CC0DE3148B9B2A9273BF974DBC",
+      "description": "Search and Cortana application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "85",
+      "name": "MpCmdRun.exe",
+      "url": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2110.6-0",
+      "suffix": "exe",
+      "md5": "CF2E3EC88871745526030D5F195AF65464DC27C33588E406CC4ED7154BF7ADEF",
+      "description": "Microsoft Malware Protection Command Line Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "86",
+      "name": "Microsoft.ActiveDirectory.WebServices.exe",
+      "url": "C:\\Windows\\ADWS",
+      "suffix": "exe",
+      "md5": "7F704C33CD27C6B4FF821D83A43EB679075E3B4590BE02DE8B705F06B75088AC",
+      "description": "Microsoft.ActiveDirectory.WebServices",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "87",
+      "name": "CompatTelRunner.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "5D967CF44DEC5C93284BC763B258D92C09AC2E288BB1192DC86D419659BAE976",
+      "description": "Microsoft Compatibility Telemetry",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "88",
+      "name": "whoami.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1D5491E3C468EE4B4EF6EDFF4BBC7D06EE83180F6F0B1576763EA2EFE049493A",
+      "description": "whoami - displays logged on user information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "89",
+      "name": "msdtc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1EAB4B9691E9EFA1DA02BDCB84035F65EDA4B525E5AEE925A6E1E4107F8E4F31",
+      "description": "Microsoft Distributed Transaction Coordinator Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "90",
+      "name": "mobsync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "61248F04A068B1FF16C3609E1454B8E787DD40BFF57CC46F4FC18DB40FFB8028",
+      "description": "Microsoft Sync Center",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "91",
+      "name": "reg.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "19316D4266D0B776D9B2A05D5903D8CBC8F0EA1520E9C2A7E6D5960B6FA4DCAF",
+      "description": "Registry Console Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "92",
+      "name": "makecab.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "F9EBAA95C93AA8CE217A4AD8715CCF2B7A3FC7A951DA44B78A9BB2C53B9BCACE",
+      "description": "Microsoft® Cabinet Maker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "93",
+      "name": "sihost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "09D94357241EBB37E4510C3A168178822C9458530A30D0E829F5759D6202834D",
+      "description": "Shell Infrastructure Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "94",
+      "name": "Sysmon.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "82B16D5247BE31D9BDDEB07DC716DD5D7A50F233807519037E88D8279CE85033",
+      "description": "System activity monitor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "95",
+      "name": "lsass.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "BBC83E4759D4B82BAD31E371AD679AA414C72273BF97CEE5AED8337ED8A4D79F",
+      "description": "Local Security Authority Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "96",
+      "name": "dsregcmd.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "E84CD9CF98964256D61153159148B1F05725CC0CD401BA4A17ACEF8B4DD2CA44",
+      "description": "DSREG commandline tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "97",
+      "name": "PSEXESVC.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "3C19FEE379B4882971834A3D38F3F8B86DE560114274375560433778CD505748",
+      "description": "PsExec Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "98",
+      "name": "ctfmon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "2D88AB60714D7CAA53B06653CDD31E14093121CEBF3BB7EB7CA0F1B9F04A3A8A",
+      "description": "CTF Loader",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "99",
+      "name": "dllhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C4E078607DB2784BE7761C86048DFFA6F3EF04B551354A32FCDEC3B6A3450905",
+      "description": "COM Surrogate",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "100",
+      "name": "SystemSettings.exe",
+      "url": "C:\\Windows\\ImmersiveControlPanel",
+      "suffix": "exe",
+      "md5": "714BC26DA9CD95E6268A6A01AF211D76DE86DC7F2918630E69695D3944B11B12",
+      "description": "Settings",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "101",
+      "name": "unsecapp.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "8095D4D7726438F8665E00C1A405AB94DB6358DC14740783795CF8617A64F19E",
+      "description": "Sink to receive asynchronous callbacks for WMI client application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "102",
+      "name": "conhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "ADA97EC1F2BF175CB3A4D53E099347414444F6740C484D944229B6B8A383F606",
+      "description": "Console Window Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "103",
+      "name": "userinit.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1FE7F7C59EC7EAA276739FA85F7DDA6136D81184E0AEB385B6AC9FEAAA8C4394",
+      "description": "Userinit Logon Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "104",
+      "name": "SpeechRuntime.exe",
+      "url": "C:\\Windows\\System32\\Speech_OneCore\\common",
+      "suffix": "exe",
+      "md5": "19AE878E2A5C9ABEB915B950DA847FCD3A093E639B084B7297D1E65FBB300237",
+      "description": "Speech Runtime Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "105",
+      "name": "dwm.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "43DC58AF302374F77C3FAEAC2FB446B1D813712D2650D9618E8D80E312F2E6FD",
+      "description": "Desktop Window Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "106",
+      "name": "DeviceCensus.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "654136971238A2D726D6F47088F90D658002CAC50CE685ADE467160FB9B9A196",
+      "description": "Device Census",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "107",
+      "name": "ngen.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "458C9A4F63E67D3E8D5B8CB5372681D4A280FAD7441C356ABD17517BA50F45E6",
+      "description": "Microsoft Common Language Runtime native compiler",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "108",
+      "name": "powershell.exe",
+      "url": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0",
+      "suffix": "exe",
+      "md5": "DE96A6E69944335375DC1AC238336066889D9FFC7D73628EF4FE1B1B160AB32C",
+      "description": "Windows PowerShell",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "109",
+      "name": "TrustedInstaller.exe",
+      "url": "C:\\Windows\\servicing",
+      "suffix": "exe",
+      "md5": "8E0D841929ECD6E1223205E0163E1F5B4938973F7BD743A6094A84C3D4DB9F56",
+      "description": "Windows Modules Installer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "110",
+      "name": "dstokenclean.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "066AEB24EC4007483EDB2AC0893236069F463E598FC18FF5646B28D067A74F58",
+      "description": "Data Sharing Service Maintenance Driver",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "111",
+      "name": "ngentask.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "1EDB993FB2B3B81D6635AD0A9C0608BF44DF0A6F3F293DB456980BE1DE167ACA",
+      "description": "Microsoft .NET Framework optimization service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "112",
+      "name": "AM_Delta_Patch_1.353.1952.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "8E68548706788B08D41C52BF525119DDD6095FEA070C7EFF29A5F20FFDC767DC",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "113",
+      "name": "smartscreen.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "E56F5C3C3676E2D90CAFA4A17D9122FDB4903458DCA395976976812A45438A67",
+      "description": "Windows Defender SmartScreen",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "114",
+      "name": "backgroundTaskHost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B8E176FE76A1454A00C4AF0F8BF8870650D9C33D3E333239A59445C5B35C9A37",
+      "description": "Background Task Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "115",
+      "name": "WmiPrvSE.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "B5C78BEF3883E3099F7EF844DA1446DB29107E5C0223B97F29E7FAFAB5527F15",
+      "description": "WMI Provider Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "116",
+      "name": "upfc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "AE4B0E81C601521DA974D53E44295C98331CED7C9CC2F260434E6BC0C475DDA3",
+      "description": "Updateability From SCM",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "117",
+      "name": "LogonUI.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "9358EF8CB7FB08581D74274005263BD8FA2E6E0FC443930B25FD345CF6CE9071",
+      "description": "Windows Logon User Interface Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "118",
+      "name": "regedit.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "FF3B56204F0CEA172AEFB178E05A32C3C3C0BE93F29DD4C2DF46A6DE07BB5152",
+      "description": "Registry Editor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "119",
+      "name": "autochk.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "644417B839762A3325920A87C3D955CA974A4EC1D6F008216910267435921255",
+      "description": "Auto Check Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "120",
+      "name": "powershell.exe",
+      "url": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0",
+      "suffix": "exe",
+      "md5": "1EE3D7C80D075D64F97D04D036E558043F2F6BC959C87CD5B0A6D53B96B96A0F",
+      "description": "Windows PowerShell",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "121",
+      "name": "mimikatz.exe",
+      "url": "C:\\Users\\Administrator\\Desktop\\mimikatz_trunk\\x64",
+      "suffix": "exe",
+      "md5": "912018AB3C6B16B39EE84F17745FF0C80A33CEE241013EC35D0281E40C0658D9",
+      "description": "mimikatz for Windows",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "122",
+      "name": "wermgr.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "92EB7086E954AE23A806A5E87510874C1D7E115C6F29B4B1B5D6AED9E5D6F7B9",
+      "description": "Windows Problem Reporting",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "123",
+      "name": "sc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "78097C7CD0E57902536C60B7FA17528C313DB20869E5F944223A0BA4C801D39B",
+      "description": "Service Control Manager Configuration Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "124",
+      "name": "klist.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6AC1BB76543C10B5294AAF286132152757F90825EFECB3C0066F5F2ACC7AA1D7",
+      "description": "Tool for managing the Kerberos ticket cache",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "125",
+      "name": "svchost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "7FD065BAC18C5278777AE44908101CDFED72D26FA741367F0AD4D02020787AB6",
+      "description": "Host Process for Windows Services",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "126",
+      "name": "explorer.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "E6B2C506042FF50415668CB9D0F24C34C2CF080F1023CA9565FDB846CCD39B53",
+      "description": "Windows Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "127",
+      "name": "MusNotifyIcon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "87F2BBF2F673E812BF77A26D0B8F46BBAFC0392D77C6FFCBCF9F50E2107DD3DA",
+      "description": "MusNotifyIcon.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "128",
+      "name": "VBoxTray.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "2BCA60B6F99C167CDEE4716BA023297E3864596E274286FEC00815B150324249",
+      "description": "VirtualBox Guest Additions Tray Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "129",
+      "name": "AM_Delta_Patch_1.353.1817.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "7DCFC5360784A76253E88EF4C99BDBC9F75E6E84E26C55A140DBBEDFC7007A47",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "130",
+      "name": "lpremove.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "148B7B678FE8E74F8D92412B14EFF11496D7B1AB7B8A548B327594F806DF77AF",
+      "description": "MUI Language pack cleanup",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "131",
+      "name": "cmd.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3656F37A1C6951EC4496FABB8EE957D3A6E3C276D5A3785476B482C9C0D32EA2",
+      "description": "Windows Command Processor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "132",
+      "name": "spoolsv.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B70062FADF85DD9CB404963E8E9048BE670621EAC8E02561943430E4E17DE86B",
+      "description": "Spooler SubSystem App",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "133",
+      "name": "shutdown.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6D262B3CBEDAC276C3EB960DF923167FE0449218721334DCC48A561E981B5790",
+      "description": "Windows Shutdown and Annotation Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "134",
+      "name": "wininit.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "13AD43EE6D19DFC9709C3106D796BC3F21791A564E443D042A5AA117F2680649",
+      "description": "Windows Start-Up Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "135",
+      "name": "services.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "526F2447AD8DA40CF3B969E98ACD6621FE9F5ED94EE6A652661FFAA0E8628446",
+      "description": "Services and Controller app",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "136",
+      "name": "iexplore.exe",
+      "url": "C:\\Program Files\\internet explorer",
+      "suffix": "exe",
+      "md5": "1F499169A51E374C322491CB8526BADB2E0F24E834EA27C28570B4ADE23429DD",
+      "description": "Internet Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "137",
+      "name": "MusNotification.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "87354BA1A03DBF915BA6934D51785479E8BF60DE1FA2C7ABB587CBBBE9E8202F",
+      "description": "MusNotificationBroker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "138",
+      "name": "WerFault.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FF21A7AFC2B535F12847092308488F752C613B167D979DEDA3A73466C728D001",
+      "description": "Windows Problem Reporting",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "139",
+      "name": "HelpPane.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "9B7E8C3EC8575C95938783B6069804F613014653BBDE829D973F0B7D924D2B75",
+      "description": "Microsoft Help and Support",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "140",
+      "name": "fontdrvhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B4EC4DDD548C108B3EFB5390A4781AEF72136B0F99F7BCD046BF27F56211A77D",
+      "description": "Usermode Font Driver Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "141",
+      "name": "DiskSnapshot.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C7B9591EB4DD78286615401C138C7C1A89F0E358CAAE1786DE2C3B08E904FFDC",
+      "description": "DiskSnapshot.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "142",
+      "name": "ismserv.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A78F74D85A66EDFB9B0EEE821D20B5E8737ED8932F920394D64345BD18244034",
+      "description": "Windows NT Intersite Messaging Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "143",
+      "name": "SecurityHealthService.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6EFCF7E203B6437A3F3E4AAE20374549C02C6433D1E2DD452418EB0990FBA73E",
+      "description": "Windows Security Health Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "144",
+      "name": "systeminfo.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "81E6D6CB7A0F50F5BC331FD2AF48A90F2DCEE9FF7EF4F1ABE0B87866F7837985",
+      "description": "Displays system information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "145",
+      "name": "wuauclt.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CC855323B6AB7259C92BD1310211DD95174E43BE2F46C828E38F0060DD2E4488",
+      "description": "Windows Update",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "146",
+      "name": "ShellExperienceHost.exe",
+      "url": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "7664D88802072E89A1E259796EECFC2C1DF5899B3A103886539CB06D83C50D8D",
+      "description": "Windows Shell Experience Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "147",
+      "name": "ipconfig.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "B0832DEC07A4CB6228B7B392D6ABAFB79E9BF7327605AE3E86E1E617DE7495A5",
+      "description": "IP Configuration Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "148",
+      "name": "SIHClient.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C99BF5336B16035DABFBC605903B52F01E9B03E86C36BF779B220423D7F72B92",
+      "description": "SIH Client",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "149",
+      "name": "msfeedssync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CE95233922882F70354D637B12F4738042E189F9A92F4E99945FCBF84EC611F7",
+      "description": "Microsoft Feeds Synchronization",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "150",
+      "name": "ipconfig.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C5DBBDDD1193C7ADCA1E30CD17B8C7AF6A76C406DD84DC164BB959C135F1AA70",
+      "description": "IP Configuration Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "151",
+      "name": "MusNotificationUx.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "577ED5760DC0A80A10F68D8F61E115831367FF7DBC43E5700DBBFD6D3325C43E",
+      "description": "MusNotificationUx.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "152",
+      "name": "whoami.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "075FA41E449213910F6D45F5713FEF8ED71EA913C1EBE594407894141F103D64",
+      "description": "whoami - displays logged on user information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "153",
+      "name": "smss.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A15DF33F7B666BC79A2FE9864442623AAEA393552591A4AB1F3A7CB29CF40DAE",
+      "description": "Windows Session Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "154",
+      "name": "SecurityHealthSystray.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "48F852164EF4747FCDDFF463034CAD33167E341D241536B122AE74FC8841C941",
+      "description": "Windows Security notification icon",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "155",
+      "name": "MpSigStub.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FA42B9B84754E2E8368E8929FA045BE86DBD72678176EE75814D2A16D23E5C26",
+      "description": "Microsoft Malware Protection Signature Update Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "156",
+      "name": "dllhost.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "F95B7BA752C6452DA9D83F84CA7307AE079D220718BCB2BABF145903BAC894DD",
+      "description": "COM Surrogate",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "157",
+      "name": "iexplore.exe",
+      "url": "C:\\Program Files (x86)\\Internet Explorer",
+      "suffix": "exe",
+      "md5": "36D088CD393C832A5EDC8905FB177628C390217445E65800D8DE0F1E2E9BFE99",
+      "description": "Internet Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "158",
+      "name": "ServerManager.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "57FB008FAEB05DD34FC1C224CE456B38CED950243FBAC7F7CB348DF68F990EBE",
+      "description": "Server Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "159",
+      "name": "wevtutil.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CCFFE548D686EB10FD825171D9C6D1C20AA59E639130AC8A9098776369E77B99",
+      "description": "Eventing Command Line Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "160",
+      "name": "sppsvc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "0D82C046ABB654F0D131AEEDF0BA064F7825EE69CAF2B9BABCF34D85BA0A2A9D",
+      "description": "Microsoft Software Protection Platform Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "161",
+      "name": "cmd.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "2EDB180274A51C83DDF8414D99E90315A9047B18C51DFD070326214D4DA59651",
+      "description": "Windows Command Processor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "162",
+      "name": "dxgiadaptercache.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "BA598EFD9D9C4449DEAC83F78CEC893AA127F31767902D6DD69A157B65450240",
+      "description": "DXGI Adapter Cache",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "163",
+      "name": "AppHostRegistrationVerifier.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "619E84381F1387B59B623ECF8E8CE46F661C2E6F41A5CA908AC670F180EA7DFF",
+      "description": "App Uri Handlers Registration Verifier",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "164",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\D1976606-209A-4461-A753-9C29F9D44839",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "165",
+      "name": "AM_Delta_Patch_1.353.1825.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "6A410BF7451C2D6DB5E4AB973DF5C74A518830FCE529E43BAF723841D45E4972",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "166",
+      "name": "AM_Delta_Patch_1.353.2003.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "42DA773250E52A7DB49D24DA7ECFE4091993F7CFAAF12147166E78759B6766D1",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "167",
+      "name": "SecHealthUI.exe",
+      "url": "C:\\Windows\\SystemApps\\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "5DB524E00BBCCD32FB183B0D527D2E472EA95722B796E06158D6D915B3B9C8C6",
+      "description": "Windows Defender application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "168",
+      "name": "ngen.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "FACEB6F5D1CDC5AD50A4A1B92C4CD3FCDABCF7E8D418014A1B1221C1DEFA3D8F",
+      "description": "Microsoft Common Language Runtime native compiler",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "169",
+      "name": "WmiPrvSE.exe",
+      "url": "C:\\Windows\\SysWOW64\\wbem",
+      "suffix": "exe",
+      "md5": "158075D730A7A6ACBE7739251EE9BEA4349268597CA576B3E0CB8442140865FD",
+      "description": "WMI Provider Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "170",
+      "name": "VBoxService.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "112807F8846DEDE218F310984D257CA889DD3C667FD6C0D851F317EB52C0994B",
+      "description": "VirtualBox Guest Additions Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "171",
+      "name": "wsqmcons.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "AEF5BF320220B76E88A53A23A8C7CAA535C7D5656A66612DA6A60A344869DF12",
+      "description": "Windows SQM Consolidator",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "172",
+      "name": "ngentask.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "1DE4EAD8FFE6AA2A2DF80A93D39B51804E187711DD28723B4F087605ACF21D33",
+      "description": "Microsoft .NET Framework optimization service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "173",
+      "name": "notepad.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A92056D772260B39A876D01552496B2F8B4610A0B1E084952FE1176784E2CE77",
+      "description": "Notepad",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "174",
+      "name": "taskhostw.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "D5907D58A3E8A9F5610941D1E281F8DAC6437DE648FFCA08974490FDF7F74ACD",
+      "description": "Host Process for Windows Tasks",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "175",
+      "name": "SpeechModelDownload.exe",
+      "url": "C:\\Windows\\System32\\Speech_OneCore\\common",
+      "suffix": "exe",
+      "md5": "D5D65106D297610EA11E7EEC6B19E70CA6C7960D24A61920A322057A06611793",
+      "description": "Speech Model Download Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "176",
+      "name": "mmc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "5DC0EFC7CF971F9DA9BD183F4BC5707176F7F829133B3EF90FFBB603516AF921",
+      "description": "Microsoft Management Console",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "177",
+      "name": "rundll32.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "01B407AF0200B66A34D9B1FA6D9EAAB758EFA36A36BB99B554384F59F8690B1A",
+      "description": "Windows host process (Rundll32)",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "178",
+      "name": "dfssvc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B555B8BFE98CDB2973385D312656A1540044F29E753C6EA11CAA64DF749CDA06",
+      "description": "Windows NT Distributed File System Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "179",
+      "name": "mpnotify.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "11AEEDEADEF669487F4445116F617924EC4355D33EFF895509F4A46EEC8EF217",
+      "description": "Windows NT Multiple Provider Notification Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "180",
+      "name": "csrss.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FB40ED0FFA6BC795923A941DAB6B7D6B43583D0F152A6DF4D8953D2C1A0CB417",
+      "description": "Client Server Runtime Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "181",
+      "name": "WMIADAP.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "E2BA31E0F13310FC4BECBECEFC0253C4F7A7F76463A774EF3B434D46BF559291",
+      "description": "WMI Reverse Performance Adapter Maintenance Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "182",
+      "name": "DismHost.exe",
+      "url": "C:\\Windows\\Temp\\B8770674-DB99-4530-89E3-E3BD852DD43D",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "183",
+      "name": "winlogon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C3EB3011D3470334B115548AB3933A794B495FC9A6E4FD838D66C5F42622641C",
+      "description": "Windows Logon Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "184",
+      "name": "UsoClient.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "D695D42BAAF8A58BD471BD283DE0FC1D115DAF83B4DD0061A92F8ACB5B96CD91",
+      "description": "UsoClient",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "185",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\45240464-C4BC-481E-BC46-B2BE1493A14A",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "186",
+      "name": "reg.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "E3046D83040D114AF09C6B7738F69B14EC180ECE999573489A7D3386E4ABABB5",
+      "description": "Registry Console Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "187",
+      "name": "ApplicationFrameHost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "010A39F2C33B3DF513C599E951B61AFC8299C85B60C86E957E9DA17C1CD5655A",
+      "description": "Application Frame Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "188",
+      "name": "TiWorker.exe",
+      "url": "C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.733_none_7e30c51b4cee0b94",
+      "suffix": "exe",
+      "md5": "138435960F0717184F933AED18CB27773A6ACB4F6028C14A7381EFBD343185BA",
+      "description": "Windows Modules Installer Worker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "189",
+      "name": "MsMpEng.exe",
+      "url": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2110.6-0",
+      "suffix": "exe",
+      "md5": "5F7EDBE04ED4A7F616AAE597E7D0AB0D2E9DEA30F70601F80BD45141DA5FEEA7",
+      "description": "Antimalware Service Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "190",
+      "name": "dns.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "17D644914551BF9768A7E2EC2286F295B2D980DD174C3EFAB14894AF24DBB9DC",
+      "description": "Domain Name System (DNS) Server",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "191",
+      "name": "RuntimeBroker.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3F82D416FBEE431B0AE798078F9C354711577F48B38901788C784A5EC0DD13B3",
+      "description": "Runtime Broker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "192",
+      "name": "ServerManagerLauncher.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "8D583C54E942EE079E6D2F59A5914D1A5C5194385ED42C717648A3106CC0F20B",
+      "description": "Server Manager Launcher",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "193",
+      "name": "wlms.exe",
+      "url": "C:\\Windows\\System32\\wlms",
+      "suffix": "exe",
+      "md5": "487A3B61FEFDDC758B2455DF2C8E666D3FCC4E75D8C0A6B56D0AD2732F9F3C48",
+      "description": "Windows License Monitoring Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "194",
+      "name": "cleanmgr.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1BDAB94440132410D1AB623DED8F2427B34C233A063A150617AF271B9394025B",
+      "description": "Disk Space Cleanup Manager for Windows",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "195",
+      "name": "dfsrs.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3C2D337E77C05038109744CC7B9B758BF4A3E4842E8FB3FA7EAB7AAF56736FB3",
+      "description": "Distributed File System Replication",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "196",
+      "name": "SearchUI.exe",
+      "url": "C:\\Windows\\SystemApps\\Microsoft.Windows.Cortana_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "4C5901EE8A0454187E63FB29E9B157802B67E1CC0DE3148B9B2A9273BF974DBC",
+      "description": "Search and Cortana application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "197",
+      "name": "MpCmdRun.exe",
+      "url": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2110.6-0",
+      "suffix": "exe",
+      "md5": "CF2E3EC88871745526030D5F195AF65464DC27C33588E406CC4ED7154BF7ADEF",
+      "description": "Microsoft Malware Protection Command Line Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "198",
+      "name": "Microsoft.ActiveDirectory.WebServices.exe",
+      "url": "C:\\Windows\\ADWS",
+      "suffix": "exe",
+      "md5": "7F704C33CD27C6B4FF821D83A43EB679075E3B4590BE02DE8B705F06B75088AC",
+      "description": "Microsoft.ActiveDirectory.WebServices",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "199",
+      "name": "CompatTelRunner.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "5D967CF44DEC5C93284BC763B258D92C09AC2E288BB1192DC86D419659BAE976",
+      "description": "Microsoft Compatibility Telemetry",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "200",
+      "name": "whoami.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1D5491E3C468EE4B4EF6EDFF4BBC7D06EE83180F6F0B1576763EA2EFE049493A",
+      "description": "whoami - displays logged on user information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "201",
+      "name": "msdtc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1EAB4B9691E9EFA1DA02BDCB84035F65EDA4B525E5AEE925A6E1E4107F8E4F31",
+      "description": "Microsoft Distributed Transaction Coordinator Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "202",
+      "name": "mobsync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "61248F04A068B1FF16C3609E1454B8E787DD40BFF57CC46F4FC18DB40FFB8028",
+      "description": "Microsoft Sync Center",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "203",
+      "name": "reg.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "19316D4266D0B776D9B2A05D5903D8CBC8F0EA1520E9C2A7E6D5960B6FA4DCAF",
+      "description": "Registry Console Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "204",
+      "name": "sihost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "09D94357241EBB37E4510C3A168178822C9458530A30D0E829F5759D6202834D",
+      "description": "Shell Infrastructure Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "205",
+      "name": "Sysmon.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "82B16D5247BE31D9BDDEB07DC716DD5D7A50F233807519037E88D8279CE85033",
+      "description": "System activity monitor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "206",
+      "name": "lsass.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "BBC83E4759D4B82BAD31E371AD679AA414C72273BF97CEE5AED8337ED8A4D79F",
+      "description": "Local Security Authority Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "207",
+      "name": "dsregcmd.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "E84CD9CF98964256D61153159148B1F05725CC0CD401BA4A17ACEF8B4DD2CA44",
+      "description": "DSREG commandline tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "208",
+      "name": "PSEXESVC.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "3C19FEE379B4882971834A3D38F3F8B86DE560114274375560433778CD505748",
+      "description": "PsExec Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "209",
+      "name": "ctfmon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "2D88AB60714D7CAA53B06653CDD31E14093121CEBF3BB7EB7CA0F1B9F04A3A8A",
+      "description": "CTF Loader",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "210",
+      "name": "dllhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C4E078607DB2784BE7761C86048DFFA6F3EF04B551354A32FCDEC3B6A3450905",
+      "description": "COM Surrogate",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "211",
+      "name": "SystemSettings.exe",
+      "url": "C:\\Windows\\ImmersiveControlPanel",
+      "suffix": "exe",
+      "md5": "714BC26DA9CD95E6268A6A01AF211D76DE86DC7F2918630E69695D3944B11B12",
+      "description": "Settings",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "212",
+      "name": "unsecapp.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "8095D4D7726438F8665E00C1A405AB94DB6358DC14740783795CF8617A64F19E",
+      "description": "Sink to receive asynchronous callbacks for WMI client application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "213",
+      "name": "conhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "ADA97EC1F2BF175CB3A4D53E099347414444F6740C484D944229B6B8A383F606",
+      "description": "Console Window Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "214",
+      "name": "userinit.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1FE7F7C59EC7EAA276739FA85F7DDA6136D81184E0AEB385B6AC9FEAAA8C4394",
+      "description": "Userinit Logon Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "215",
+      "name": "SpeechRuntime.exe",
+      "url": "C:\\Windows\\System32\\Speech_OneCore\\common",
+      "suffix": "exe",
+      "md5": "19AE878E2A5C9ABEB915B950DA847FCD3A093E639B084B7297D1E65FBB300237",
+      "description": "Speech Runtime Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "216",
+      "name": "dwm.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "43DC58AF302374F77C3FAEAC2FB446B1D813712D2650D9618E8D80E312F2E6FD",
+      "description": "Desktop Window Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "217",
+      "name": "DeviceCensus.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "654136971238A2D726D6F47088F90D658002CAC50CE685ADE467160FB9B9A196",
+      "description": "Device Census",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "218",
+      "name": "ngen.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "458C9A4F63E67D3E8D5B8CB5372681D4A280FAD7441C356ABD17517BA50F45E6",
+      "description": "Microsoft Common Language Runtime native compiler",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "219",
+      "name": "powershell.exe",
+      "url": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0",
+      "suffix": "exe",
+      "md5": "DE96A6E69944335375DC1AC238336066889D9FFC7D73628EF4FE1B1B160AB32C",
+      "description": "Windows PowerShell",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "220",
+      "name": "TrustedInstaller.exe",
+      "url": "C:\\Windows\\servicing",
+      "suffix": "exe",
+      "md5": "8E0D841929ECD6E1223205E0163E1F5B4938973F7BD743A6094A84C3D4DB9F56",
+      "description": "Windows Modules Installer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "221",
+      "name": "dstokenclean.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "066AEB24EC4007483EDB2AC0893236069F463E598FC18FF5646B28D067A74F58",
+      "description": "Data Sharing Service Maintenance Driver",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "222",
+      "name": "ngentask.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "1EDB993FB2B3B81D6635AD0A9C0608BF44DF0A6F3F293DB456980BE1DE167ACA",
+      "description": "Microsoft .NET Framework optimization service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "223",
+      "name": "AM_Delta_Patch_1.353.1952.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "8E68548706788B08D41C52BF525119DDD6095FEA070C7EFF29A5F20FFDC767DC",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "224",
+      "name": "smartscreen.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "E56F5C3C3676E2D90CAFA4A17D9122FDB4903458DCA395976976812A45438A67",
+      "description": "Windows Defender SmartScreen",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "225",
+      "name": "backgroundTaskHost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B8E176FE76A1454A00C4AF0F8BF8870650D9C33D3E333239A59445C5B35C9A37",
+      "description": "Background Task Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "226",
+      "name": "WmiPrvSE.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "B5C78BEF3883E3099F7EF844DA1446DB29107E5C0223B97F29E7FAFAB5527F15",
+      "description": "WMI Provider Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "227",
+      "name": "upfc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "AE4B0E81C601521DA974D53E44295C98331CED7C9CC2F260434E6BC0C475DDA3",
+      "description": "Updateability From SCM",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "228",
+      "name": "LogonUI.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "9358EF8CB7FB08581D74274005263BD8FA2E6E0FC443930B25FD345CF6CE9071",
+      "description": "Windows Logon User Interface Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "229",
+      "name": "regedit.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "FF3B56204F0CEA172AEFB178E05A32C3C3C0BE93F29DD4C2DF46A6DE07BB5152",
+      "description": "Registry Editor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "230",
+      "name": "autochk.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "644417B839762A3325920A87C3D955CA974A4EC1D6F008216910267435921255",
+      "description": "Auto Check Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "231",
+      "name": "powershell.exe",
+      "url": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0",
+      "suffix": "exe",
+      "md5": "1EE3D7C80D075D64F97D04D036E558043F2F6BC959C87CD5B0A6D53B96B96A0F",
+      "description": "Windows PowerShell",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "232",
+      "name": "mimikatz.exe",
+      "url": "C:\\Users\\Administrator\\Desktop\\mimikatz_trunk\\x64",
+      "suffix": "exe",
+      "md5": "912018AB3C6B16B39EE84F17745FF0C80A33CEE241013EC35D0281E40C0658D9",
+      "description": "mimikatz for Windows",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "233",
+      "name": "wermgr.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "92EB7086E954AE23A806A5E87510874C1D7E115C6F29B4B1B5D6AED9E5D6F7B9",
+      "description": "Windows Problem Reporting",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "234",
+      "name": "sc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "78097C7CD0E57902536C60B7FA17528C313DB20869E5F944223A0BA4C801D39B",
+      "description": "Service Control Manager Configuration Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "235",
+      "name": "klist.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6AC1BB76543C10B5294AAF286132152757F90825EFECB3C0066F5F2ACC7AA1D7",
+      "description": "Tool for managing the Kerberos ticket cache",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "236",
+      "name": "svchost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "7FD065BAC18C5278777AE44908101CDFED72D26FA741367F0AD4D02020787AB6",
+      "description": "Host Process for Windows Services",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "237",
+      "name": "explorer.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "E6B2C506042FF50415668CB9D0F24C34C2CF080F1023CA9565FDB846CCD39B53",
+      "description": "Windows Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "238",
+      "name": "MusNotifyIcon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "87F2BBF2F673E812BF77A26D0B8F46BBAFC0392D77C6FFCBCF9F50E2107DD3DA",
+      "description": "MusNotifyIcon.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "239",
+      "name": "VBoxTray.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "2BCA60B6F99C167CDEE4716BA023297E3864596E274286FEC00815B150324249",
+      "description": "VirtualBox Guest Additions Tray Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "240",
+      "name": "AM_Delta_Patch_1.353.1817.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "7DCFC5360784A76253E88EF4C99BDBC9F75E6E84E26C55A140DBBEDFC7007A47",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "241",
+      "name": "lpremove.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "148B7B678FE8E74F8D92412B14EFF11496D7B1AB7B8A548B327594F806DF77AF",
+      "description": "MUI Language pack cleanup",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "242",
+      "name": "sdiagnhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "50A816FE57195376AD30AEEC2EA7968936A706508E26299302F30366CC7FF3A4",
+      "description": "Scripted Diagnostics Native Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "243",
+      "name": "cmd.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3656F37A1C6951EC4496FABB8EE957D3A6E3C276D5A3785476B482C9C0D32EA2",
+      "description": "Windows Command Processor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "244",
+      "name": "spoolsv.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B70062FADF85DD9CB404963E8E9048BE670621EAC8E02561943430E4E17DE86B",
+      "description": "Spooler SubSystem App",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "245",
+      "name": "shutdown.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6D262B3CBEDAC276C3EB960DF923167FE0449218721334DCC48A561E981B5790",
+      "description": "Windows Shutdown and Annotation Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "246",
+      "name": "wininit.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "13AD43EE6D19DFC9709C3106D796BC3F21791A564E443D042A5AA117F2680649",
+      "description": "Windows Start-Up Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "247",
+      "name": "services.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "526F2447AD8DA40CF3B969E98ACD6621FE9F5ED94EE6A652661FFAA0E8628446",
+      "description": "Services and Controller app",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "248",
+      "name": "iexplore.exe",
+      "url": "C:\\Program Files\\internet explorer",
+      "suffix": "exe",
+      "md5": "1F499169A51E374C322491CB8526BADB2E0F24E834EA27C28570B4ADE23429DD",
+      "description": "Internet Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "249",
+      "name": "MusNotification.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "87354BA1A03DBF915BA6934D51785479E8BF60DE1FA2C7ABB587CBBBE9E8202F",
+      "description": "MusNotificationBroker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "250",
+      "name": "WerFault.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FF21A7AFC2B535F12847092308488F752C613B167D979DEDA3A73466C728D001",
+      "description": "Windows Problem Reporting",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "251",
+      "name": "HelpPane.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "9B7E8C3EC8575C95938783B6069804F613014653BBDE829D973F0B7D924D2B75",
+      "description": "Microsoft Help and Support",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "252",
+      "name": "AM_Delta.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "B22CFDF541D80A31F1EC769F297180EF00B6A1A5C88DE3EA0CE2022D94908332",
+      "description": "AntiMalware Definition Update",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "253",
+      "name": "fontdrvhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B4EC4DDD548C108B3EFB5390A4781AEF72136B0F99F7BCD046BF27F56211A77D",
+      "description": "Usermode Font Driver Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "254",
+      "name": "DiskSnapshot.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C7B9591EB4DD78286615401C138C7C1A89F0E358CAAE1786DE2C3B08E904FFDC",
+      "description": "DiskSnapshot.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "255",
+      "name": "ismserv.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A78F74D85A66EDFB9B0EEE821D20B5E8737ED8932F920394D64345BD18244034",
+      "description": "Windows NT Intersite Messaging Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "256",
+      "name": "SecurityHealthService.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "6EFCF7E203B6437A3F3E4AAE20374549C02C6433D1E2DD452418EB0990FBA73E",
+      "description": "Windows Security Health Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "257",
+      "name": "systeminfo.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "81E6D6CB7A0F50F5BC331FD2AF48A90F2DCEE9FF7EF4F1ABE0B87866F7837985",
+      "description": "Displays system information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "258",
+      "name": "wuauclt.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CC855323B6AB7259C92BD1310211DD95174E43BE2F46C828E38F0060DD2E4488",
+      "description": "Windows Update",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "259",
+      "name": "ShellExperienceHost.exe",
+      "url": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "7664D88802072E89A1E259796EECFC2C1DF5899B3A103886539CB06D83C50D8D",
+      "description": "Windows Shell Experience Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "260",
+      "name": "ipconfig.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "B0832DEC07A4CB6228B7B392D6ABAFB79E9BF7327605AE3E86E1E617DE7495A5",
+      "description": "IP Configuration Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "261",
+      "name": "SIHClient.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C99BF5336B16035DABFBC605903B52F01E9B03E86C36BF779B220423D7F72B92",
+      "description": "SIH Client",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "262",
+      "name": "msfeedssync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CE95233922882F70354D637B12F4738042E189F9A92F4E99945FCBF84EC611F7",
+      "description": "Microsoft Feeds Synchronization",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "263",
+      "name": "ipconfig.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C5DBBDDD1193C7ADCA1E30CD17B8C7AF6A76C406DD84DC164BB959C135F1AA70",
+      "description": "IP Configuration Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "264",
+      "name": "MusNotificationUx.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "577ED5760DC0A80A10F68D8F61E115831367FF7DBC43E5700DBBFD6D3325C43E",
+      "description": "MusNotificationUx.exe",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "265",
+      "name": "whoami.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "075FA41E449213910F6D45F5713FEF8ED71EA913C1EBE594407894141F103D64",
+      "description": "whoami - displays logged on user information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "266",
+      "name": "smss.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A15DF33F7B666BC79A2FE9864442623AAEA393552591A4AB1F3A7CB29CF40DAE",
+      "description": "Windows Session Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "267",
+      "name": "SecurityHealthSystray.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "48F852164EF4747FCDDFF463034CAD33167E341D241536B122AE74FC8841C941",
+      "description": "Windows Security notification icon",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "268",
+      "name": "MpSigStub.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FA42B9B84754E2E8368E8929FA045BE86DBD72678176EE75814D2A16D23E5C26",
+      "description": "Microsoft Malware Protection Signature Update Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "269",
+      "name": "dllhost.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "F95B7BA752C6452DA9D83F84CA7307AE079D220718BCB2BABF145903BAC894DD",
+      "description": "COM Surrogate",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "270",
+      "name": "iexplore.exe",
+      "url": "C:\\Program Files (x86)\\Internet Explorer",
+      "suffix": "exe",
+      "md5": "36D088CD393C832A5EDC8905FB177628C390217445E65800D8DE0F1E2E9BFE99",
+      "description": "Internet Explorer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "271",
+      "name": "ServerManager.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "57FB008FAEB05DD34FC1C224CE456B38CED950243FBAC7F7CB348DF68F990EBE",
+      "description": "Server Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "272",
+      "name": "wevtutil.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "CCFFE548D686EB10FD825171D9C6D1C20AA59E639130AC8A9098776369E77B99",
+      "description": "Eventing Command Line Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "273",
+      "name": "sppsvc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "0D82C046ABB654F0D131AEEDF0BA064F7825EE69CAF2B9BABCF34D85BA0A2A9D",
+      "description": "Microsoft Software Protection Platform Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "274",
+      "name": "cmd.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "2EDB180274A51C83DDF8414D99E90315A9047B18C51DFD070326214D4DA59651",
+      "description": "Windows Command Processor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "275",
+      "name": "dxgiadaptercache.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "BA598EFD9D9C4449DEAC83F78CEC893AA127F31767902D6DD69A157B65450240",
+      "description": "DXGI Adapter Cache",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "276",
+      "name": "AppHostRegistrationVerifier.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "619E84381F1387B59B623ECF8E8CE46F661C2E6F41A5CA908AC670F180EA7DFF",
+      "description": "App Uri Handlers Registration Verifier",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "277",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\D1976606-209A-4461-A753-9C29F9D44839",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "278",
+      "name": "AM_Delta_Patch_1.353.1825.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "6A410BF7451C2D6DB5E4AB973DF5C74A518830FCE529E43BAF723841D45E4972",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "279",
+      "name": "AM_Delta_Patch_1.353.2003.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "42DA773250E52A7DB49D24DA7ECFE4091993F7CFAAF12147166E78759B6766D1",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "280",
+      "name": "SecHealthUI.exe",
+      "url": "C:\\Windows\\SystemApps\\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "5DB524E00BBCCD32FB183B0D527D2E472EA95722B796E06158D6D915B3B9C8C6",
+      "description": "Windows Defender application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "281",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\CB209422-5511-4703-B082-43BC2F93E8F9",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "282",
+      "name": "ngen.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "FACEB6F5D1CDC5AD50A4A1B92C4CD3FCDABCF7E8D418014A1B1221C1DEFA3D8F",
+      "description": "Microsoft Common Language Runtime native compiler",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "283",
+      "name": "WmiPrvSE.exe",
+      "url": "C:\\Windows\\SysWOW64\\wbem",
+      "suffix": "exe",
+      "md5": "158075D730A7A6ACBE7739251EE9BEA4349268597CA576B3E0CB8442140865FD",
+      "description": "WMI Provider Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "284",
+      "name": "tzsync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "26A12639EF4893A2A9FB3970661956B21C500B8A61D8B07DDE53100A17970559",
+      "description": "TimeZone Sync Task",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "285",
+      "name": "VBoxService.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "112807F8846DEDE218F310984D257CA889DD3C667FD6C0D851F317EB52C0994B",
+      "description": "VirtualBox Guest Additions Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "286",
+      "name": "wsqmcons.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "AEF5BF320220B76E88A53A23A8C7CAA535C7D5656A66612DA6A60A344869DF12",
+      "description": "Windows SQM Consolidator",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "287",
+      "name": "ngentask.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "1DE4EAD8FFE6AA2A2DF80A93D39B51804E187711DD28723B4F087605ACF21D33",
+      "description": "Microsoft .NET Framework optimization service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "288",
+      "name": "notepad.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "A92056D772260B39A876D01552496B2F8B4610A0B1E084952FE1176784E2CE77",
+      "description": "Notepad",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "289",
+      "name": "Defrag.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "F3653821E5DBB52C9B7F62A36A810EED6CA16CEF6372B3C91518CB92D2932BA8",
+      "description": "Disk Defragmenter Module",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "290",
+      "name": "lazagne.exe",
+      "url": "C:\\Users\\Administrator\\Downloads",
+      "suffix": "exe",
+      "md5": "ED2F501408A7A6E1A854C29C4B0BC5648A6AA8612432DF829008931B3E34BF56",
+      "description": "-",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "291",
+      "name": "taskhostw.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "D5907D58A3E8A9F5610941D1E281F8DAC6437DE648FFCA08974490FDF7F74ACD",
+      "description": "Host Process for Windows Tasks",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "292",
+      "name": "SpeechModelDownload.exe",
+      "url": "C:\\Windows\\System32\\Speech_OneCore\\common",
+      "suffix": "exe",
+      "md5": "D5D65106D297610EA11E7EEC6B19E70CA6C7960D24A61920A322057A06611793",
+      "description": "Speech Model Download Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "293",
+      "name": "mmc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "5DC0EFC7CF971F9DA9BD183F4BC5707176F7F829133B3EF90FFBB603516AF921",
+      "description": "Microsoft Management Console",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "294",
+      "name": "rundll32.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "01B407AF0200B66A34D9B1FA6D9EAAB758EFA36A36BB99B554384F59F8690B1A",
+      "description": "Windows host process (Rundll32)",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "295",
+      "name": "dfssvc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B555B8BFE98CDB2973385D312656A1540044F29E753C6EA11CAA64DF749CDA06",
+      "description": "Windows NT Distributed File System Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "296",
+      "name": "mpnotify.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "11AEEDEADEF669487F4445116F617924EC4355D33EFF895509F4A46EEC8EF217",
+      "description": "Windows NT Multiple Provider Notification Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "297",
+      "name": "csrss.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "FB40ED0FFA6BC795923A941DAB6B7D6B43583D0F152A6DF4D8953D2C1A0CB417",
+      "description": "Client Server Runtime Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "298",
+      "name": "WMIADAP.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "E2BA31E0F13310FC4BECBECEFC0253C4F7A7F76463A774EF3B434D46BF559291",
+      "description": "WMI Reverse Performance Adapter Maintenance Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "299",
+      "name": "DismHost.exe",
+      "url": "C:\\Windows\\Temp\\B8770674-DB99-4530-89E3-E3BD852DD43D",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "300",
+      "name": "winlogon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C3EB3011D3470334B115548AB3933A794B495FC9A6E4FD838D66C5F42622641C",
+      "description": "Windows Logon Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "301",
+      "name": "UsoClient.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "D695D42BAAF8A58BD471BD283DE0FC1D115DAF83B4DD0061A92F8ACB5B96CD91",
+      "description": "UsoClient",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "302",
+      "name": "DismHost.exe",
+      "url": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\45240464-C4BC-481E-BC46-B2BE1493A14A",
+      "suffix": "exe",
+      "md5": "0F25D825E0CAA7574353951C11131BDA85FD7792957467F23B24FA9A7D3D9D32",
+      "description": "Dism Host Servicing Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "303",
+      "name": "reg.exe",
+      "url": "C:\\Windows\\SysWOW64",
+      "suffix": "exe",
+      "md5": "E3046D83040D114AF09C6B7738F69B14EC180ECE999573489A7D3386E4ABABB5",
+      "description": "Registry Console Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "304",
+      "name": "ApplicationFrameHost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "010A39F2C33B3DF513C599E951B61AFC8299C85B60C86E957E9DA17C1CD5655A",
+      "description": "Application Frame Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "305",
+      "name": "TiWorker.exe",
+      "url": "C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.733_none_7e30c51b4cee0b94",
+      "suffix": "exe",
+      "md5": "138435960F0717184F933AED18CB27773A6ACB4F6028C14A7381EFBD343185BA",
+      "description": "Windows Modules Installer Worker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "306",
+      "name": "MsMpEng.exe",
+      "url": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2110.6-0",
+      "suffix": "exe",
+      "md5": "5F7EDBE04ED4A7F616AAE597E7D0AB0D2E9DEA30F70601F80BD45141DA5FEEA7",
+      "description": "Antimalware Service Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "307",
+      "name": "dns.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "17D644914551BF9768A7E2EC2286F295B2D980DD174C3EFAB14894AF24DBB9DC",
+      "description": "Domain Name System (DNS) Server",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "308",
+      "name": "RuntimeBroker.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3F82D416FBEE431B0AE798078F9C354711577F48B38901788C784A5EC0DD13B3",
+      "description": "Runtime Broker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "309",
+      "name": "ServerManagerLauncher.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "8D583C54E942EE079E6D2F59A5914D1A5C5194385ED42C717648A3106CC0F20B",
+      "description": "Server Manager Launcher",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "310",
+      "name": "wlms.exe",
+      "url": "C:\\Windows\\System32\\wlms",
+      "suffix": "exe",
+      "md5": "487A3B61FEFDDC758B2455DF2C8E666D3FCC4E75D8C0A6B56D0AD2732F9F3C48",
+      "description": "Windows License Monitoring Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "311",
+      "name": "cleanmgr.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1BDAB94440132410D1AB623DED8F2427B34C233A063A150617AF271B9394025B",
+      "description": "Disk Space Cleanup Manager for Windows",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "312",
+      "name": "dfsrs.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "3C2D337E77C05038109744CC7B9B758BF4A3E4842E8FB3FA7EAB7AAF56736FB3",
+      "description": "Distributed File System Replication",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "313",
+      "name": "SearchUI.exe",
+      "url": "C:\\Windows\\SystemApps\\Microsoft.Windows.Cortana_cw5n1h2txyewy",
+      "suffix": "exe",
+      "md5": "4C5901EE8A0454187E63FB29E9B157802B67E1CC0DE3148B9B2A9273BF974DBC",
+      "description": "Search and Cortana application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "314",
+      "name": "MpCmdRun.exe",
+      "url": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.2110.6-0",
+      "suffix": "exe",
+      "md5": "CF2E3EC88871745526030D5F195AF65464DC27C33588E406CC4ED7154BF7ADEF",
+      "description": "Microsoft Malware Protection Command Line Utility",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "315",
+      "name": "Microsoft.ActiveDirectory.WebServices.exe",
+      "url": "C:\\Windows\\ADWS",
+      "suffix": "exe",
+      "md5": "7F704C33CD27C6B4FF821D83A43EB679075E3B4590BE02DE8B705F06B75088AC",
+      "description": "Microsoft.ActiveDirectory.WebServices",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "316",
+      "name": "CompatTelRunner.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "5D967CF44DEC5C93284BC763B258D92C09AC2E288BB1192DC86D419659BAE976",
+      "description": "Microsoft Compatibility Telemetry",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "317",
+      "name": "whoami.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1D5491E3C468EE4B4EF6EDFF4BBC7D06EE83180F6F0B1576763EA2EFE049493A",
+      "description": "whoami - displays logged on user information",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "318",
+      "name": "msdtc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1EAB4B9691E9EFA1DA02BDCB84035F65EDA4B525E5AEE925A6E1E4107F8E4F31",
+      "description": "Microsoft Distributed Transaction Coordinator Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "319",
+      "name": "mobsync.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "61248F04A068B1FF16C3609E1454B8E787DD40BFF57CC46F4FC18DB40FFB8028",
+      "description": "Microsoft Sync Center",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "320",
+      "name": "reg.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "19316D4266D0B776D9B2A05D5903D8CBC8F0EA1520E9C2A7E6D5960B6FA4DCAF",
+      "description": "Registry Console Tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "321",
+      "name": "makecab.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "F9EBAA95C93AA8CE217A4AD8715CCF2B7A3FC7A951DA44B78A9BB2C53B9BCACE",
+      "description": "Microsoft® Cabinet Maker",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "322",
+      "name": "sihost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "09D94357241EBB37E4510C3A168178822C9458530A30D0E829F5759D6202834D",
+      "description": "Shell Infrastructure Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "323",
+      "name": "Sysmon.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "82B16D5247BE31D9BDDEB07DC716DD5D7A50F233807519037E88D8279CE85033",
+      "description": "System activity monitor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "324",
+      "name": "lsass.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "BBC83E4759D4B82BAD31E371AD679AA414C72273BF97CEE5AED8337ED8A4D79F",
+      "description": "Local Security Authority Process",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "325",
+      "name": "dsregcmd.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "E84CD9CF98964256D61153159148B1F05725CC0CD401BA4A17ACEF8B4DD2CA44",
+      "description": "DSREG commandline tool",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "326",
+      "name": "PSEXESVC.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "3C19FEE379B4882971834A3D38F3F8B86DE560114274375560433778CD505748",
+      "description": "PsExec Service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "327",
+      "name": "ctfmon.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "2D88AB60714D7CAA53B06653CDD31E14093121CEBF3BB7EB7CA0F1B9F04A3A8A",
+      "description": "CTF Loader",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "328",
+      "name": "dllhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "C4E078607DB2784BE7761C86048DFFA6F3EF04B551354A32FCDEC3B6A3450905",
+      "description": "COM Surrogate",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "329",
+      "name": "SystemSettings.exe",
+      "url": "C:\\Windows\\ImmersiveControlPanel",
+      "suffix": "exe",
+      "md5": "714BC26DA9CD95E6268A6A01AF211D76DE86DC7F2918630E69695D3944B11B12",
+      "description": "Settings",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "330",
+      "name": "unsecapp.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "8095D4D7726438F8665E00C1A405AB94DB6358DC14740783795CF8617A64F19E",
+      "description": "Sink to receive asynchronous callbacks for WMI client application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "331",
+      "name": "conhost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "ADA97EC1F2BF175CB3A4D53E099347414444F6740C484D944229B6B8A383F606",
+      "description": "Console Window Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "332",
+      "name": "userinit.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "1FE7F7C59EC7EAA276739FA85F7DDA6136D81184E0AEB385B6AC9FEAAA8C4394",
+      "description": "Userinit Logon Application",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "333",
+      "name": "SpeechRuntime.exe",
+      "url": "C:\\Windows\\System32\\Speech_OneCore\\common",
+      "suffix": "exe",
+      "md5": "19AE878E2A5C9ABEB915B950DA847FCD3A093E639B084B7297D1E65FBB300237",
+      "description": "Speech Runtime Executable",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "334",
+      "name": "dwm.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "43DC58AF302374F77C3FAEAC2FB446B1D813712D2650D9618E8D80E312F2E6FD",
+      "description": "Desktop Window Manager",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "335",
+      "name": "DeviceCensus.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "654136971238A2D726D6F47088F90D658002CAC50CE685ADE467160FB9B9A196",
+      "description": "Device Census",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "336",
+      "name": "ngen.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "458C9A4F63E67D3E8D5B8CB5372681D4A280FAD7441C356ABD17517BA50F45E6",
+      "description": "Microsoft Common Language Runtime native compiler",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "337",
+      "name": "powershell.exe",
+      "url": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0",
+      "suffix": "exe",
+      "md5": "DE96A6E69944335375DC1AC238336066889D9FFC7D73628EF4FE1B1B160AB32C",
+      "description": "Windows PowerShell",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "338",
+      "name": "TrustedInstaller.exe",
+      "url": "C:\\Windows\\servicing",
+      "suffix": "exe",
+      "md5": "8E0D841929ECD6E1223205E0163E1F5B4938973F7BD743A6094A84C3D4DB9F56",
+      "description": "Windows Modules Installer",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "339",
+      "name": "dstokenclean.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "066AEB24EC4007483EDB2AC0893236069F463E598FC18FF5646B28D067A74F58",
+      "description": "Data Sharing Service Maintenance Driver",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "340",
+      "name": "ngentask.exe",
+      "url": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319",
+      "suffix": "exe",
+      "md5": "1EDB993FB2B3B81D6635AD0A9C0608BF44DF0A6F3F293DB456980BE1DE167ACA",
+      "description": "Microsoft .NET Framework optimization service",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "341",
+      "name": "AM_Delta_Patch_1.353.1952.0.exe",
+      "url": "C:\\Windows\\SoftwareDistribution\\Download\\Install",
+      "suffix": "exe",
+      "md5": "8E68548706788B08D41C52BF525119DDD6095FEA070C7EFF29A5F20FFDC767DC",
+      "description": "Microsoft Antimalware WU Stub",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "342",
+      "name": "smartscreen.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "E56F5C3C3676E2D90CAFA4A17D9122FDB4903458DCA395976976812A45438A67",
+      "description": "Windows Defender SmartScreen",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "343",
+      "name": "backgroundTaskHost.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "B8E176FE76A1454A00C4AF0F8BF8870650D9C33D3E333239A59445C5B35C9A37",
+      "description": "Background Task Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "344",
+      "name": "WmiPrvSE.exe",
+      "url": "C:\\Windows\\System32\\wbem",
+      "suffix": "exe",
+      "md5": "B5C78BEF3883E3099F7EF844DA1446DB29107E5C0223B97F29E7FAFAB5527F15",
+      "description": "WMI Provider Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "345",
+      "name": "upfc.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "AE4B0E81C601521DA974D53E44295C98331CED7C9CC2F260434E6BC0C475DDA3",
+      "description": "Updateability From SCM",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "346",
+      "name": "LogonUI.exe",
+      "url": "C:\\Windows\\System32",
+      "suffix": "exe",
+      "md5": "9358EF8CB7FB08581D74274005263BD8FA2E6E0FC443930B25FD345CF6CE9071",
+      "description": "Windows Logon User Interface Host",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    },
+    {
+      "id": "347",
+      "name": "regedit.exe",
+      "url": "C:\\Windows",
+      "suffix": "exe",
+      "md5": "FF3B56204F0CEA172AEFB178E05A32C3C3C0BE93F29DD4C2DF46A6DE07BB5152",
+      "description": "Registry Editor",
+      "r_time": "18/3/2024 18:40:47",
+      "state": "1"
+    }
+  ]
+}
